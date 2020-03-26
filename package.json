@@ -1,0 +1,15 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.19.49",
+    "mailgun-js": "^0.22.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}
